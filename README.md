@@ -1,6 +1,6 @@
 # Hi, I'm Eito 👋
 
-一橋大学 ソーシャル・データサイエンス学部4年 / 数理統計学専攻
+一橋大学 ソーシャル・データサイエンス学部 4年 / 数理統計学専攻
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -11,4 +11,4 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ## 🎯 Currently
-- 📚 数理ファイナンス勉強中
+- 📚 数量ファイナンス勉強中
